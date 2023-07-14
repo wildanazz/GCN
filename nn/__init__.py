@@ -15,6 +15,8 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
         write_to_temp(data)
         try:
             gcn()
+            plot()
+            logging.info('Job completed.')
         except:
             logging.error('Something went wrong when performing GCN.')
 
