@@ -5,3 +5,6 @@ scikit-learn
 requests
 pandas
 matplotlib
+azure-storage-blob
+azure-keyvault
+azure-keyvault-secrets
