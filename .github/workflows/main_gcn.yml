@@ -65,6 +65,6 @@ jobs:
           app-name: 'gcn'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29E756FBE63748FD962F828CA3BF10FF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFEF7DA77C0F4A7EB3477AC2AE89E19D }}
           scm-do-build-during-deployment: true
           enable-oryx-build: true
