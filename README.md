@@ -87,4 +87,8 @@ func azure functionapp publish <YourFunctionAppName>
 - [GCN Paper](https://arxiv.org/abs/1609.02907): For details on the GCN model used in this project.
 - [Azure Functions Documentation](https://docs.microsoft.com/en-us/azure/azure-functions/): For more information on serverless function deployment.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ---
